@@ -1,0 +1,11 @@
+D:\6655010_LapTrinh.Net\Lab4\Lab4\ApDung2\bin\Debug\ApDung2.exe.config
+D:\6655010_LapTrinh.Net\Lab4\Lab4\ApDung2\bin\Debug\ApDung2.exe
+D:\6655010_LapTrinh.Net\Lab4\Lab4\ApDung2\bin\Debug\ApDung2.pdb
+D:\6655010_LapTrinh.Net\Lab4\Lab4\ApDung2\obj\Debug\ApDung2.csproj.AssemblyReference.cache
+D:\6655010_LapTrinh.Net\Lab4\Lab4\ApDung2\obj\Debug\ApDung2.csproj.SuggestedBindingRedirects.cache
+D:\6655010_LapTrinh.Net\Lab4\Lab4\ApDung2\obj\Debug\ApDung2.Form1.resources
+D:\6655010_LapTrinh.Net\Lab4\Lab4\ApDung2\obj\Debug\ApDung2.Properties.Resources.resources
+D:\6655010_LapTrinh.Net\Lab4\Lab4\ApDung2\obj\Debug\ApDung2.csproj.GenerateResource.cache
+D:\6655010_LapTrinh.Net\Lab4\Lab4\ApDung2\obj\Debug\ApDung2.csproj.CoreCompileInputs.cache
+D:\6655010_LapTrinh.Net\Lab4\Lab4\ApDung2\obj\Debug\ApDung2.exe
+D:\6655010_LapTrinh.Net\Lab4\Lab4\ApDung2\obj\Debug\ApDung2.pdb
